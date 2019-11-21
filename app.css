@@ -1,8 +1,3 @@
-.cover {
-    background: url("/nanzan.file/nanzan1.jpg");
-    background-size: cover;
-  }
- 
   .headere {
     position: fixed;
     left: 0;
