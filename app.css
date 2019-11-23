@@ -97,3 +97,19 @@
     transform: rotate(-45deg);
     top: 20px;
   }
+
+
+/* スマホ　767px以下 */
+@media only screen and (max-width: 767px){
+  img{
+    width: 100%;
+    height: auto;
+  }
+}
+/* pc　768px以上 */
+@media only screen and (min-width: 768px), print {
+  img{
+    width: 1000px;
+    height: auto;
+  }
+}
