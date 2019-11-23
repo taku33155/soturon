@@ -106,10 +106,3 @@
     height: auto;
   }
 }
-/* pc　768px以上 */
-@media only screen and (min-width: 768px), print {
-  img{
-    width: 1000px;
-    height: auto;
-  }
-}
