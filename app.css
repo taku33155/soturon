@@ -115,9 +115,11 @@
   width: 100px;
   height: 100px;
   margin: 20px;
+  padding-right: 200px;
 }
 
 .gmails {
   width: 100px;
   height: 100px;
+  margin: 20px;
 }
