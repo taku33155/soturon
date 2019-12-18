@@ -114,13 +114,12 @@
 .soturon {
   width: 100px;
   height: 100px;
-  margin: 20px;
-  padding-left: 200px;
+  margin: 20px 20px 20px 100px;
+
 }
 
 .gmails {
   width: 100px;
   height: 100px;
   margin: 20px;
-  padding-left: 50px
 }
