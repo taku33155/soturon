@@ -129,3 +129,10 @@
   height: 100px;
   margin: 30px 20px 20px 20px;
 }
+
+@media only screen and (max-width: 767px) {
+  .gmail{
+    width: 100px;
+    height: auto;
+  }
+}
