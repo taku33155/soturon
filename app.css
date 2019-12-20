@@ -111,3 +111,8 @@
   display: flex;
 }
 
+
+.bottom {
+  display: flex;
+  align-items: center;
+}
